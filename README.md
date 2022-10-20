@@ -1,4 +1,4 @@
-# SAandPIS
+# SA&amp;PIS
 SA&amp;PIS BSUIR, different expert methods, langs: C++, Python
 
 ---
